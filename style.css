@@ -1,0 +1,41 @@
+body{
+    font-family: 'Aclonica', sans-serif;
+    
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+.header_div{
+    color: crimson;
+}
+
+.header_div p{
+    font-family: 'ABeeZee', sans-serif;
+    color: whitesmoke;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'ABeeZee', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: whitesmoke;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(143, 141, 141);
+}
+
+.main_div h3,h4{
+    color: white;
+}
